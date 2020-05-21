@@ -24,6 +24,9 @@ body {
    line-height: 24px;
    color: $text;
 }
+input {
+   outline: transparent;
+}
 .container {
    max-width: 1200px;
    margin: 0 auto;
